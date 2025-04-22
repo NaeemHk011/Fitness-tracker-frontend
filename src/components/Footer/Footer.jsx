@@ -68,7 +68,8 @@ const Footer = () => {
           </a>
         </div>
         <div className="text-pink-300 text-sm">
-          &copy; 2024 Next Level Fitness. All rights reserved.
+          &copy; Developed by Naeem Hussain with 💖<br />
+          &copy; 2024 Next Level Fitness. All rights reserved
         </div>
       </div>
     </footer>
